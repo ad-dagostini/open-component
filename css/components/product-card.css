@@ -1,0 +1,35 @@
+.product-card {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 60px;
+}
+
+.product-card img {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.product-descriptive {
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.price-buyit {
+  line-height: 0.5;
+  display: flex;
+  justify-content: space-between;
+}
+
+.other-products {
+  display: flex;
+  justify-content: space-between;
+}
+
+.other-products img {
+  height: 250px;
+  width: 170px;
+  object-fit: cover;
+}

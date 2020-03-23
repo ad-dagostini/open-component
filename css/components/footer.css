@@ -1,0 +1,19 @@
+.footer {
+  border: #996600 1px inset;
+  padding: 30px;
+  text-align: center;
+}
+
+.footer p {
+  color: rgb(100, 100, 100);
+}
+
+.social-icon {
+  font-size: 30px;
+  color: #996600;
+  margin: 8px 8px;
+}
+
+.social-icon:hover {
+  color: #332200;
+}
